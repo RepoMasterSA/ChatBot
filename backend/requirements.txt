@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+litellm==1.110.3
+pydantic>=2.5
+# LiteLLM imports these lazily on a cache hit in this version
+orjson>=3.9
+soundfile>=0.12
