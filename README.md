@@ -15,8 +15,8 @@ flowchart LR
 
 | | URL |
 |---|---|
-| Frontend | `https://<your-frontend-url>` |
-| Backend | `https://<your-backend-url>` (try `/health`) |
+| Frontend | `https://chat-bot-six-rouge.vercel.app/` |
+| Backend | `https://chatbot-9bha.onrender.com` (try `/health`) |
 
 ## 2. Run locally
 
